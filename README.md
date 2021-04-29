@@ -66,7 +66,7 @@ If using Google Colab, import drive.mount('/content/drive') and follow instructi
 
 
 ## Launch
-Download the Python File *India_Air_Quality_CA01_Silvia_Ji.ipynb* and open it in the IDE. Download and import the dataset *data.csv*. 
+Download the Python File *Wine_Enthusiast.ipynb* and open it in the IDE. Download and import the dataset *wine.csv*. 
 
 Download and unzip the *wine.csv* file.
 
